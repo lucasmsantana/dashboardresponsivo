@@ -1,6 +1,6 @@
-##Dashboard em HTML e CSS
+# Dashboard em HTML e CSS
 Work in Progress
 
 
-#Preview
-![dashboardprint](https://prnt.sc/nu54n7OaQFzA)
+## Preview
+![https://prnt.sc/nu54n7OaQFzA](https://github.com/lucasmsantana/dashboardresponsivo/blob/main/images/dashboardgit.png)
